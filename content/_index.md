@@ -12,7 +12,7 @@ title: Home
 
 ---
 
-I build backend systems that scale — from event-driven microservices to production Kubernetes infrastructure. Currently a Backend & Infrastructure Engineer at [Rhesis AI](https://rhesis.ai), an open-source platform for structured testing and evaluation of LLMs and Gen AI applications.
+I build backend systems that scale from event-driven microservices to production Kubernetes infrastructure. Currently a Backend & Infrastructure Engineer at [Rhesis AI](https://rhesis.ai), an open-source platform for structured testing and evaluation of LLMs and Gen AI applications.
 
 Previously Backend Engineer at **Mitigant**, where I architected a Cloud Attack Emulation SaaS platform offering 50+ attack scenarios across AWS and Azure — built on the MITRE ATT&CK and ATLAS frameworks, with a RabbitMQ-based messaging backbone decoupling 3 microservices for zero-downtime deployments.
 
