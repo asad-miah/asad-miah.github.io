@@ -1,6 +1,6 @@
-baseurl: "https://harrycruz.github.io/"
+baseurl: "https://asad-miah.github.io/"
 locale: "en-us"
-title: "Harry Cruz"
+title: "Asad Miah"
 theme: "hugo-xmin"
 
 ignoreFiles: ["_cache$"]
@@ -25,8 +25,8 @@ menu:
       weight: 5
 
 params:
-  description: "Dr.-Ing. Harry Cruz – Founder & CTO at Rhesis AI, AI/ML specialist."
-  footer: "&copy; [Harry Cruz](https://harrycruz.github.io) {Year} | [GitHub](https://github.com/harrycruz) | [LinkedIn](https://www.linkedin.com/in/harrycruz/) | [Email](mailto:harrycruz@gmail.com)"
+  description: "Asad Miah – Backend & Cloud Infrastructure Engineer at Rhesis AI."
+  footer: "&copy; [Asad Miah](https://asad-miah.github.io) {Year} | [GitHub](https://github.com/asad-miah) | [LinkedIn](https://www.linkedin.com/in/asad-miah/) | [Email](mailto:asad.miah@web.de)"
 
 security:
   allowContent: ['.*']
