@@ -23,6 +23,12 @@ menu:
     - name: Education
       url: "education/"
       weight: 5
+    - name: Technical Contributions
+      url: "technical-contributions/"
+      weight: 6
+    - name: GitHub Activity
+      url: "gitHub-activity/"
+      weight: 7
 
 params:
   description: "Asad Miah – Backend & Cloud Infrastructure Engineer at Rhesis AI."
