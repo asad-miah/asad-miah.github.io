@@ -1,26 +1,14 @@
 ---
 title: Education
 ---
-
-## Doctorate: Applied Machine Learning
-**Oct 2016 – Apr 2021 · University of Potsdam, Hasso Plattner Institute · Germany**
-
-- Degree: Dr.-Ing. (magna cum laude)
-- Thesis: *Standardizing Clinical Predictive Modeling*
-- Concentration areas: predictive modeling, web development, distributed computing, and machine learning.
-
+## Master of Science: Digital Health
+**Oct 2020 – Sep 2024 · Hasso Plattner Institute · Germany**
+- GPA: 2.0
+- Thesis: *SUBEAT: A Framework and Toolbox to Enable Flexible N-of-1 Trials of Smartphone Usage Behavior*
+- Concentration areas: digital health, smartphone data anonymization, and applied machine learning.
 ---
-
-## Master in Business Administration
-**Oct 2011 – Sep 2013 · University of Leipzig · Germany**
-
-- Minor: Information Systems in Health Care
-- Concentration areas: innovation management, internationalization of medical device companies, and architecture of information systems in health care.
-
----
-
-## Bachelor in Computer Engineering: Software Engineering
-**Sep 2003 – Aug 2008 · Federal University of Pará · Belém, Brazil**
-
-- Concentration areas: software engineering and information systems.
-- Founded the university junior enterprise, delivering web software projects in C# and PHP.
+## Bachelor of Science: Computer Science and Engineering
+**Dec 2011 – Apr 2016 · Khulna University of Engineering & Technology · Bangladesh**
+- GPA: 2.3
+- Thesis: *Cancer Classification from DNA Microarray Data using mRMR and Artificial Neural Network*
+- Concentration areas: software engineering, data structures, and machine learning.
