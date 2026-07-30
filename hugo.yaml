@@ -27,7 +27,7 @@ menu:
       url: "technical-contributions/"
       weight: 6
     - name: GitHub Activity
-      url: "gitHub-activity/"
+      url: "github-activity/"
       weight: 7
 
 params:
