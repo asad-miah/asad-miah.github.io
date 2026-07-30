@@ -1,40 +1,25 @@
 ---
 title: Projects
 ---
-
-Selected projects from my time at Microsoft and in consulting. Client names are anonymized.
-
----
-
-## Digital Banking Avatar
-`OpenAI · RAG · Text-to-Speech · Promptflow · Azure`
-
-Led the technical design and implementation of a digital banking avatar for a large German financial institution. Built a RAG-based LLM evaluation pipeline, Promptflow integration, and banking API connections. Designed a scalable data ingestion and versioning strategy. Controlled a phased production release targeting 8.3 million users.
+Selected technical projects and contributions from my work and research.
 
 ---
-
-## Seam Strength Prediction
-`Azure ML · Databricks · PySpark`
-
-Led a feasibility study on seam strength prediction from sensor data for a multinational consumer goods manufacturer. Managed a team of three data scientists, developed an Azure ML–Databricks integration, and designed classification pipelines. Delivered insights that shaped the client's AI roadmap.
-
----
-
-## Financial Anomaly Detection
-`Azure · MLOps · Isolation Forest`
-
-Developed financial anomaly detection for the German Finance Ministry using MLOps best practices and Isolation Forest models. Delivered reusable AI orchestration templates that improved scalability for future projects.
+## SUBEAT: N-of-1 Trials Toolbox
+`Java · Apache OpenNLP · Java Swing`
+Developed a Java-based framework and toolbox to enable flexible N-of-1 trials of smartphone usage behavior, built during my master's thesis at Hasso Plattner Institute. Used Apache OpenNLP and Regular Expressions to identify and anonymize sensitive entities (names, street names, etc.) from Android/iOS smartphone datasets, achieving 95% entity-recognition accuracy and ensuring HIPAA/GDPR compliance. Designed the GUI in Java Swing for flexible configuration and real-time anonymization.
+[GitHub →](https://github.com/asad-miah/SUBEAT)
 
 ---
-
-## Defect Detection: Healthcare Manufacturer
-`IoT Edge · MLOps · Databricks · CI/CD`
-
-Built end-to-end defect detection pipelines for transducer manufacturing, enabling automated model retraining and IoT edge deployment. Reduced production line onboarding time from weeks to hours through CI/CD automation.
+## Cloud Attack Emulation Platform
+`Java · Spring Boot · RabbitMQ · AWS · Azure`
+Designed and implemented a Cloud Attack Emulation SaaS platform at Mitigant GmbH, offering 50+ cloud attack scenarios based on the MITRE ATT&CK and ATLAS frameworks to assess AWS and Azure security posture. Architected a RabbitMQ-based messaging backbone decoupling 8 microservices for asynchronous, event-driven communication, supporting zero-downtime multi-cloud deployments.
 
 ---
+## Production Observability & Kubernetes Deployment
+`Kubernetes · Helm · Prometheus · Loki · Grafana · CloudNativePG`
+Designed Helm-based Kubernetes deployment workflows for 10+ microservices at Rhesis AI, enabling consistent releases across development, staging, and production. Deployed a full observability stack (Prometheus, Loki, Alloy, Grafana) and a tiered PostgreSQL strategy with automatic failover and continuous backup to GCP Cloud Storage.
 
-## Enterprise AI/ML Modernization: Optics Company
-`MLOps · Terraform · Azure ML · Data Mesh`
-
-Developed data drift monitoring, alerting dashboards, and AI/ML observability tooling. Deployed secure Azure ML workspaces using Terraform and delivered a reusable AI/ML blueprint adopted across multiple business units.
+---
+## University Student Information System
+`Java · Redis · PostgreSQL · HikariCP`
+Developed new features for BRAC University's Student Information System — including online admission, student advising, accounts, and grade submission — supporting over 20,000 students. Optimized backend performance using HikariCP connection pool tuning, database indexing, and Redis caching, improving response times by 30%.
