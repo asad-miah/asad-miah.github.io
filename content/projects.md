@@ -25,7 +25,7 @@ Designed and implemented backend microservices for [Mitigant's Cloud Attack Emul
 ## University Student Information System
 `Java · Redis · PostgreSQL · HikariCP`
 
-Developed new features for BRAC University's Student Information System — including online admission, student advising, accounts, and grade submission — supporting over 20,000 students. Optimized backend performance using HikariCP connection pool tuning, database indexing, and Redis caching, improving response times by 30%.
+Developed new features for [BRAC University's Student Information System](https://www.bracu.ac.bd/) including online admission, student advising, accounts, and grade submission — supporting over 20,000 students. Optimized backend performance using HikariCP connection pool tuning, database indexing, and Redis caching, improving response times by 30%.
 
 ---
 
