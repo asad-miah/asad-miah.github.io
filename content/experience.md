@@ -2,7 +2,7 @@
 title: Experience
 ---
 
-## Rhesis AI GmbH: Backend & Infrastructure Engineer
+## [Rhesis AI GmbH](https://rhesis.ai/): Backend & Infrastructure Engineer
 **Aug 2025 – Present · Germany**
 
 Contributing to Rhesis, an open-source GenAI testing platform that enables cross-functional teams to design and automate quality validation for AI applications collaboratively.
@@ -27,7 +27,7 @@ Contributing to Rhesis, an open-source GenAI testing platform that enables cross
 
 ---
 
-## Mitigant GmbH: Backend Engineer
+## [Mitigant GmbH](https://mitigant.io/de): Backend Engineer
 **Feb 2022 – Feb 2025 · Germany**
 
 Designed and implemented a Cloud Attack Emulation SaaS platform offering 50+ cloud attack scenarios to assess and improve customers' AWS and Azure cloud security posture, based on the MITRE ATT&CK and ATLAS frameworks.
@@ -44,7 +44,7 @@ Designed and implemented a Cloud Attack Emulation SaaS platform offering 50+ clo
 
 ---
 
-## Hasso Plattner Institute: Student Assistant
+## [Hasso Plattner Institute](https://hpi.de/): Student Assistant
 **Jul 2021 – Feb 2022 · Germany**
 
 Designed and developed the frontend and backend of a web application to process and visualize data.
@@ -55,7 +55,7 @@ Designed and developed the frontend and backend of a web application to process 
 
 ---
 
-## BRAC University: Full-stack Engineer
+## [BRAC University](https://www.bracu.ac.bd/): Full-stack Engineer
 **Dec 2017 – May 2021 · Bangladesh**
 
 Developed new features for the University Student Information System — including online admission, student advising, accounts, and grade submission — supporting over 20,000 students.
