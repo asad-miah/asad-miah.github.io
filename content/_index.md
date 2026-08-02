@@ -20,4 +20,4 @@ Previously Backend Engineer at **Mitigant**, where I built Java/Spring Boot micr
 
 MSc in Digital Health from the **Hasso Plattner Institute**, University of Potsdam. Thesis on anonymizing sensitive smartphone data for flexible clinical N-of-1 trials, achieving 95% entity-recognition accuracy.
 
-Fluent in **Bangla** (native), **English**.
+Fluent in  **English**, **Bangla** (native)
