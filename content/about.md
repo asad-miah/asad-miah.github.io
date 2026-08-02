@@ -10,7 +10,7 @@ I hold an **MSc in Digital Health** from the **Hasso Plattner Institute**, Unive
 
 ## Currently
 
-I am a **Backend & Infrastructure Engineer at [Rhesis AI](https://rhesis.ai)** (Aug 2025 – present), an open-source GenAI testing platform that enables cross-functional teams to design and automate quality validation for AI applications. My primary focus is cloud infrastructure: I provisioned all GCP infrastructure using Terraform, built a GitOps delivery pipeline with ArgoCD, and run a production observability stack (Prometheus, Loki, Alloy, Grafana) across 10+ microservices. I also contribute smaller backend features to the platform, supported by AI-assisted engineering tools like Claude Code.
+I am a **Backend & Infrastructure Engineer at [Rhesis AI](https://rhesis.ai)** (Aug 2025 – present), an open-source GenAI testing platform that enables cross-functional teams to design and automate quality validation for AI applications. My primary focus is cloud infrastructure: I provisioned all GCP infrastructure using Terraform, built a GitOps delivery pipeline with ArgoCD, and run a production observability stack (Prometheus, Loki, Alloy, Grafana) across 10+ microservices. In addition, I deployed a custom containerized 8B-parameter LLM on Vertex AI using vLLM with 8-bit quantization, reducing inference latency by 40% while supporting concurrent requests. I also contribute smaller backend features to the platform, supported by AI-assisted engineering tools like Claude Code.
 
 ## Previously
 
