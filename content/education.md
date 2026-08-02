@@ -14,5 +14,6 @@ title: Education
 ## Bachelor of Science: Computer Science and Engineering
 **Dec 2011 – Apr 2016 · Khulna University of Engineering & Technology · Bangladesh**
 
+- GPA: 2.3 (German scale, 1.0 = highest)
 - Concentration: Distributed Systems, Computer Networks, and Operating Systems
 - Thesis: *Cancer Classification from DNA Microarray Data using mRMR and Artificial Neural Network*
