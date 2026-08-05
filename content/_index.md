@@ -6,7 +6,7 @@ title: Home
 
 # Asad Miah, M.Sc
 
-**Backend & Cloud Infrastructure Engineer at [Rhesis AI](https://rhesis.ai)** · Potsdam, Germany
+**Backend & Cloud Infrastructure Engineer at [Rhesis AI](https://rhesis.ai)** · Germany
 
 [GitHub](https://github.com/asad-miah) · [LinkedIn](https://www.linkedin.com/in/asad-miah/) · [asad.miah@web.de](mailto:asad.miah@web.de) · +49 157-7361-1235
 
