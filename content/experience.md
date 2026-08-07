@@ -5,7 +5,7 @@ title: Experience
 ## [Rhesis AI GmbH](https://rhesis.ai/): Backend & Infrastructure Engineer
 **Aug 2025 – Present · Germany**
 
-Contributing to Rhesis, an open-source GenAI testing platform that enables cross-functional teams to design and automate quality validation for AI applications collaboratively.
+Contributing to [Rhesis](https://github.com/rhesis-ai/rhesis), an open-source GenAI testing platform that enables cross-functional teams to design and automate quality validation for AI applications collaboratively.
 
 **Infrastructure & Platform:**
 - Provisioned all GCP infrastructure (GKE, networking, IAM, storage) using Terraform, deploying consistently across 3 isolated GCP projects.
