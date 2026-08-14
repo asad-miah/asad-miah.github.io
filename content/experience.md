@@ -20,8 +20,10 @@ title: Experience
 
 **Backend Development:**
 - Developed task management features in a FastAPI backend, including entity modeling, REST APIs, validation logic, and asynchronous notifications.
-- Designed and implemented comment and configuration services with multi-entity support and LLM-powered configuration generation.
-- Built and deployed a Python-based LLM inference service with authentication, rate limiting, and batch processing.
+- Built a comment service that worked across multiple entity types letting users add comments directly to whichever one they were working with.
+- Built and deployed Polyphemus, a Python-based LLM inference service on GCP, using vLLM with 8-bit quantization to cut inference latency by 40% with authentication, rate limiting, and batch
+processing built in.
+- Benchmarked Cloud Run against three Vertex AI serving approaches (Hugging Face Service, custom container, and vLLM) for Polyphemus, running concurrency and throughput load tests across all four to compare production stability and inform the deployment platform decision.
 - Optimized backend performance by tuning database connection pools and standardizing migrations.
 
 ---
