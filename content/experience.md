@@ -24,7 +24,8 @@ title: Experience
 - Built and deployed Polyphemus, a Python-based LLM inference service on GCP, using vLLM with 8-bit quantization to cut inference latency by 40% with authentication, rate limiting, and batch
 processing built in.
 - Benchmarked Cloud Run against three Vertex AI serving approaches (Hugging Face Service, custom container, and vLLM) for Polyphemus, running concurrency and throughput load tests across all four to compare production stability and inform the deployment platform decision.
-- Optimized backend performance by tuning database connection pools and standardizing migrations.
+- Designed an OpenTelemetry-based observability system in Python, including backend instrumentation and analytics pipelines with anonymized user/org identifiers, supporting both cloud and self-
+hosted deployments
 
 ---
 
