@@ -4,7 +4,7 @@ title: About
 
 ## Background
 
-I am a Java backend engineer with over 5 years of experience building REST APIs and distributed backend systems, including asynchronous, event-driven messaging between services. My work sits at the intersection of backend architecture, cloud infrastructure, and observability, with a strong focus on debugging distributed systems end-to-end and taking full ownership of technical problems from design through resolution.
+I am a Java backend engineer with over 7 years of experience building REST APIs and distributed backend systems, including asynchronous, event-driven messaging between services. My work sits at the intersection of backend architecture, cloud infrastructure, and observability, with a strong focus on debugging distributed systems end-to-end and taking full ownership of technical problems from design through resolution.
 
 I hold an **MSc in Digital Health** from the **Hasso Plattner Institute**, University of Potsdam, where my thesis, *SUBEAT*, developed a framework for anonymizing sensitive smartphone usage data to enable flexible clinical trials — achieving 95% entity-recognition accuracy while ensuring HIPAA/GDPR compliance. Before my master's, I completed a **BSc in Computer Science and Engineering** at Khulna University of Engineering & Technology, Bangladesh.
 
