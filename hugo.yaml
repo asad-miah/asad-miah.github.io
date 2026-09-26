@@ -3,36 +3,15 @@ locale: "en-us"
 title: "Asad Miah"
 theme: "hugo-xmin"
 
+# The homepage is now the hand-built static/index.html
+disableKinds: ["home"]
+
 ignoreFiles: ["_cache$"]
 footnotereturnlinkcontents: "↩"
 
-menu:
-  main:
-    - name: Home
-      url: ""
-      weight: 1
-    - name: About
-      url: "about/"
-      weight: 2
-    - name: Experience
-      url: "experience/"
-      weight: 3
-    - name: Projects
-      url: "projects/"
-      weight: 4
-    - name: Education
-      url: "education/"
-      weight: 5
-    - name: Technical Contributions
-      url: "technical-contributions/"
-      weight: 6
-    - name: GitHub Activity
-      url: "github-activity/"
-      weight: 7
-
 params:
-  description: "Asad Miah – Backend & Cloud Infrastructure Engineer at Rhesis AI."
-  footer: "&copy; [Asad Miah](https://asad-miah.github.io) {Year} | [GitHub](https://github.com/asad-miah) | [LinkedIn](https://www.linkedin.com/in/asad-miah/) | [Email](mailto:asad.miah@web.de)"
+  description: "Asad Miah – Backend &amp; Cloud Engineer at Rhesis AI."
+  footer: "&amp;copy; [Asad Miah](https://asad-miah.github.io) {Year} | [GitHub](https://github.com/asad-miah) | [LinkedIn](https://www.linkedin.com/in/asad-miah/) | [Email](mailto:asad.miah@web.de)"
 
 security:
   allowContent: ['.*']
